@@ -18,7 +18,7 @@
 
 ### Frameworks
 <div style="display: inline_block">
-    <img align="center" width="30px" style="margin-right: 10px"  alt="react" src="//cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" >
+    <img align="center" width="30px" style="margin-right: 10px"  alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
     <img align="center" width="30px" style="margin-right: 10px" alt="next" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 </div>
 
